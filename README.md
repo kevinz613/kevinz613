@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**kevinz613/kevinz613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😎Hey, I'm kevin z. Nice to see you.
 
-Here are some ideas to get you started:
+Welcome to my page!
+  
+- 🌱 I’m currently code CyberAI project and IM project  
+  
+<br/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kevinz613&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
