@@ -12,3 +12,6 @@ Welcome to my page!
 
 <br/>  
 
+## Most used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinz613&layout=compact&theme=tokyonight)
+
