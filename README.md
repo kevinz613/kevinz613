@@ -21,10 +21,12 @@ Welcome to my page!
 
 ## 后端项目
 - 业务项目
-  - [x] [Cyber AI 大模型微服务应用]
+  - [x] [Cyber AI 大模型微服务应用](https://github.com/kevinz613/MiniAI)
   - [ ] 分布式IM项目
 - 组件项目 
-  - [x] [AI 大模型 Java SDK ]
+  - [x] [AI 大模型 Java SDK ](https://github.com/kevinz613/MiniAI-SDK)
+ 
  <br/>
+ 
  ## 前端项目
- - [x] [Cyber AI Web]
+ - [x] [Cyber AI Web](https://github.com/kevinz613/cyberai-web)
